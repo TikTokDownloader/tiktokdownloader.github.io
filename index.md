@@ -2,14 +2,14 @@
 
 Here is the list of most popular ***tiktok downlaoders and tiktok viewers*** on the internet
 
-### Download TikTok videos without watermark
-- [ssstik](https://ssstik.io/)
-- [musicallydown](https://musicaldown.com/) 
-
 ### TikTok Viewer
 - [urlebird](https://urlebird.com)
 - [tiktokder](https://tiktokder.com/)
 - [brainans](https://brainans.com/)
+
+### Download TikTok videos without watermark
+- [ssstik](https://ssstik.io/)
+- [musicallydown](https://musicaldown.com/) 
 
 ## Download without watermark (usually they're not working)
 - [qload.info](https://qload.info/)
